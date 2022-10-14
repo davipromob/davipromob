@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m promob.
 
 - 🔭 I’m currently working on Web, Android, iOS and Desktop application development projects.
-- 👀 I’m interested in Blockchain.
+- 👀 I’m interested in Blockchain technology.
 - 🌱 I’m currently learning Smart Contracts.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 Reach me via email, skype or telegram.
